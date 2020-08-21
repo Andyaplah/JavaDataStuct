@@ -1,4 +1,4 @@
-package com.andy.testjavaee.ag_stuct;
+package com.andy.datastruct.ag_stuct;
 
 public class Array<E> {
     private E[] data;

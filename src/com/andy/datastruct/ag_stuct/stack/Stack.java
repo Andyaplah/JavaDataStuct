@@ -1,4 +1,4 @@
-package com.andy.testjavaee.ag_stuct.stack;
+package com.andy.datastruct.ag_stuct.stack;
 
 public interface Stack<E> {
 

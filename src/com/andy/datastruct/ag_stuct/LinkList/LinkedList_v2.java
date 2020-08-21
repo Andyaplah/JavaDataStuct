@@ -1,4 +1,4 @@
-package com.andy.testjavaee.ag_stuct.LinkList;
+package com.andy.datastruct.ag_stuct.LinkList;
 
 
 //优化add 因为旧的需要处理特殊情况

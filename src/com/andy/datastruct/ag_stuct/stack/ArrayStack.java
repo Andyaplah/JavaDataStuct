@@ -1,7 +1,7 @@
-package com.andy.testjavaee.ag_stuct.stack;
+package com.andy.datastruct.ag_stuct.stack;
 
 
-import com.andy.testjavaee.ag_stuct.Array;
+import com.andy.datastruct.ag_stuct.Array;
 
 public class ArrayStack<E> implements Stack<E> {
 

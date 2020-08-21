@@ -1,4 +1,4 @@
-package com.andy.testjavaee.ag_stuct.LinkList;
+package com.andy.datastruct.ag_stuct.LinkList;
 
 public class LinkedList_v1<E> {
 
